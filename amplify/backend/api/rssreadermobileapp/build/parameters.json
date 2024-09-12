@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "rssreadermobileapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-rssreadermobileapp-rssm-77656-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/9360224de856f8f79f3c0a9cf4babff15e13bb1f"
+}

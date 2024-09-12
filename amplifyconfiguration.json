@@ -1,0 +1,17 @@
+{
+    "UserAgent": "aws-amplify-cli/2.0",
+    "Version": "1.0",
+    "api": {
+        "plugins": {
+            "awsAPIPlugin": {
+                "rssreadermobileapp": {
+                    "endpointType": "GraphQL",
+                    "endpoint": "https://sp7e5fn65rhq7lchmn5qhjzx3e.appsync-api.ap-northeast-1.amazonaws.com/graphql",
+                    "region": "ap-northeast-1",
+                    "authorizationType": "API_KEY",
+                    "apiKey": "da2-xmjtmaoysbhchfr4m5rpzx2ttm"
+                }
+            }
+        }
+    }
+}

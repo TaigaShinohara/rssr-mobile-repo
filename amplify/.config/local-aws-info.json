@@ -1,0 +1,7 @@
+{
+  "rssm": {
+    "configLevel": "project",
+    "useProfile": true,
+    "profileName": "RSSReaderMobileApp_Taiga"
+  }
+}
