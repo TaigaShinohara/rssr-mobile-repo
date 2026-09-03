@@ -1,2 +1,2 @@
 # rssr-mobile-repo
-RssReaerMobileAppのリポジトリ
+RSSReaderMobileAppのリポジトリ
